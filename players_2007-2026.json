@@ -1,0 +1,5599 @@
+{
+  "players": {
+    "MN Samuels": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SB Jakati": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DA Warner": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RA Tripathi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Nadeem": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MK Pandey": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KS Williamson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "G Gambhir": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MK Tiwary": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Vohra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NB Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Bhatia": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SS Tiwary": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "MA Wood": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SK Raina": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Vinay Kumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SE Marsh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sachin Baby": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "J Yadav": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PP Chawla": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SPD Smith": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Kaushik": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Kumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "K Khejroliya": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MJ McClenaghan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AD Mathews": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JJ Roy": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "AB Dinda": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Shakib Al Hasan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "K Gowtham": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "YK Pathan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "STR Binny": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Iqbal Abdulla": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Yuvraj Singh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Swapnil Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MJ Guptill": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CH Morris": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Gopal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KC Cariappa": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Basil Thampi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AR Bawne": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KV Sharma": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Vishnu Vinod": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "AF Milne": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Ankit Sharma": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Z Khan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Mishra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Ankit Soni": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Tejas Baroka": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SR Watson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AJ Tye": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Bravo": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AP Tare": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "B Indrajith": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "T Banton": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "K Yadav": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Rahmaah Gurbaz": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "HV Patel": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AS Roy": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "V Kohli": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MP Stoinis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RD Chahar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "HH Pandya": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SP Narine": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LH Ferguson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Tewatia": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "B Kumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Rashid Khan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SN Khan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Shepherd": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MR Marsh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AR Patel": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "K Rabada": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DA Miller": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DL Chahar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mohsin Khan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mohammed Shami": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Avesh Khan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KH Pandya": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Ishan Kishan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "SA Abbott": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "OC McCoy": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Dubey": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DW Steyn": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RP Meredith": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Sai Kishore": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RK Bhui": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Akash Deep": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KS Bharat": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "A Manohar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Fazalhaq Farooqi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KR Sen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "FA Allen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Anuj Rawat": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "M Theekshana": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Willey": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PP Shaw": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Umran Malik": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SP Goswami": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "HF Gurney": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CA Ingram": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "SD Lad": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "J Little": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Pathirana": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Midhun": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CJ Dala": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PK Garg": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Aman Hakim Khan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MS Wade": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "KL Nagarkoti": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DR Sams": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Mitchell": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "C Sakariya": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Lamichhane": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GH Vihari": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RR Rossouw": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KR Mayers": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LI Meriwala": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NS Naik": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "PN Mankad": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "K Kartikeya": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox, Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AU Rashid": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "IC Porel": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Virat Singh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Monu Kumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SH Johnson": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AA Kulkarni": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SZ Mulani": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RJ Gleeson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "V Kaverappa": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KT Maphaka": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Jansen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Ravindra": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sumit Kumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Saurav Chauhan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PVD Chameera": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "N Burger": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mukesh Choudhary": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Tilak Varma": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mukesh Kumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "YBK Jaiswal": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Kamboj": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Prince Yadav": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AK Markram": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Dube": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JC Archer": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Ravi Bishnoi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "H Klaasen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "P Simran Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Kartik Tyagi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Raghuvanshi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JO Holder": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Shahbaz Ahmed": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sameer Rizvi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JR Hazlewood": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MJ Suthar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Jansen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Arshad Khan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CV Varun": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DL Vettori": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sanvir Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Yudhvir Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Liton Das": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "WPUJC Vaas": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AS Yadav": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "VRV Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RP Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GD McGrath": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MF Maharoof": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "HH Gibbs": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Bowler",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LR Shukla": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Vivrant Sharma": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MG Bracewell": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "AB Agarkar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SB Styris": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Naveen-ul-Haq": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BJ Hodge": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Chanderpaul": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "T Kohli": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KC Sangakkara": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Shahid Afridi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Umar Gul": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Amarnath": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RR Sarwan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MA Khote": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JH Kallis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "B Geeves": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mohit Rathee": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Goyal": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Arshad Khan (2)": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "K Goel": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SSB Magala": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Badrinath": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "VY Mahesh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Dharmani": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Mohammad Hafeez": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JDP Oram": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Kalyankrishna": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "ST Jayasuriya": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PR Shah": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "M Manhas": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "B Lee": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RT Ponting": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Hussey": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NK Patel": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "SP Fleming": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "TR Birt": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "AA Kazi": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "J Theron": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SS Mundhe": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sunny Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Bishnoi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AS Raut": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RS Sodhi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MJ Lumb": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LJ Wright": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Sathish": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Misbah-ul-Haq": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "OA Shah": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AM Salvi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Nel": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NL McCullum": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "N Saini": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "AN Ahmed": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "I Malhotra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MD Mishra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RJ Peterson": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CA Pujara": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Uniyal": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GR Napier": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "J Botha": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Kamran Khan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "U Kaul": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Dhruv Jurel": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "N Wadhera": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MW Short": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Abishek Porel": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "S Tyagi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BJ Haddin": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "CK Kapugedera": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "S Anirudha": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "RJ Quiney": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "YA Abdulla": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TM Dilshan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "MN van Wyk": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "SS Shaikh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AC Thomas": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PD Collingwood": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AP Dole": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Jaskaran Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "H Das": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "AA Chavan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Mithun": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Vidyut": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JEC Franklin": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AN Ghosh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RR Raje": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SS Sarkar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RN ten Doeschate": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DE Bollinger": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Ladda": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DH Yagnik": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "DP Nannes": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TP Sudhindra": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Randiv": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PC Valthaty": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Awana": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Shoaib Akhtar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RR Bhatkal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KK Cooper": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AD Mascarenhas": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JM Kemp": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LPC Silva": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SR Tendulkar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak, Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RJ Harris": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "L Ablish": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Sriram": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mashrafe Mortaza": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SW Tait": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DP Conway": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "VS Malik": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "N Jagadeesan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Y Nagar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "IR Jaggi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Imran Tahir": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PJ Sangwan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MEK Hussey": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SM Pollock": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MDKJ Perera": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "JW Hastings": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Harshit Rana": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Tomar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CJ Jordan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Chopra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "SK Warne": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AC Blizzard": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJG Sammy": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KD Karthik": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "B Stanlake": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SB Joshi": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Younis Khan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium, Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Sahu": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MM Patel": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DB Das": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RV Patel": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "T Taibu": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "CJ McKay": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RA Shaikh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MD Choudhary": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "L Ngidi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MA Starc": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sandeep Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Vijaykumar Vyshak": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GHS Garton": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DS Kulkarni": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "WP Saha": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "A Zampa": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PSP Handscomb": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "RS Hangargekar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "HM Amla": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium, Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SK Trivedi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TL Suman": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Ashish Reddy": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "B Chipli": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Narwal": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SD Chitnis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sunny Gupta": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TG Southee": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BCJ Cutting": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BE Hendricks": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BAW Mendis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SA Asnodkar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Salunkhe": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Kaif": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "IC Pandey": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Dogra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LA Carseldine": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Bipul Sharma": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JR Philippe": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "TD Paine": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "AA Noffke": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Kamran Akmal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "BJ Rohrer": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "CM Gautam": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "F Behardien": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PV Tambe": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MC Juneja": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "ER Dwivedi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "K Upadhyay": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MG Neser": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "UT Khawaja": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KJ Abbott": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Muthuswami": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Anmolpreet Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JP Behrendorff": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AT Rayudu": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "AD Russell": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "V Pratap Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LE Plunkett": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RE van der Merwe": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RV Uthappa": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "V Shankar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NJ Maddinson": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CL White": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Rawat": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Gurnoor Brar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BB McCullum": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium, Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "M Morkel": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KS Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Parameswaran": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Prasanth": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Lalit Yadav": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Hooda": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "IS Sodhi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BB Sran": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Harris": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Y Prithvi Raj": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JP Duminy": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NJ Rimmington": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Nehra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AUK Pathan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Jalaj S Saxena": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak, Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CR Brathwaite": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AT Carey": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "DS Lehmann": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SS Prabhudessai": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RG Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RR Pant": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Harpreet Brar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Parag": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "N Thushara": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LB Williams": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Gulbadin Naib": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Tanush Kotian": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SD Hope": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "L Wood": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "G Coetzee": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KA Maharaj": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "J Fraser-McGurk": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Joseph": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "V Viyaskanth": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "V Puthur": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Arjun Tendulkar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Suyal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MB Parmar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AP Majumdar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Anand Rajan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GC Viljoen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Atharva Taide": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Shoaib Malik": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mohammad Asif": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PA Patel": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Shivam Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LA Pomersbach": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RG More": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Simarjeet Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MM Ali": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DB Ravi Teja": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mohammad Nabi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JP Faulkner": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "VR Aaron": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "B Sumanth": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PH Solanki": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KW Richardson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MA Agarwal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TS Mills": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JE Root": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak, Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Jacobs": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "BMAJ Mendis": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PWA Mulder": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Zeeshan Ansari": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PHKD Mendis": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak, Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SK Rasheed": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JP Inglis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Karim Janat": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KS Rathore": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "M Tiwari": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MJ Owen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Right arm Medium",
+      "role": "BAT"
+    },
+    "W O'Rourke": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "Right arm Fast",
+      "role": "BOWL"
+    },
+    "MP Breetzke": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Musheer Khan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BKG Mendis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SO Hetmyer": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "Himmat Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SN Thakur": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Ashwani Kumar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Ferreira": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "V Nigam": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Noor Ahmad": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Minz": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Slow Left arm Orthodox",
+      "role": "BAT"
+    },
+    "RD Rickelton": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "J Overton": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Naman Dhir": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Priyansh Arya": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SB Dubey": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "WG Jacks": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "XC Bartlett": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Powell": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SA Yadav": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium, Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Suryansh Shedge": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "C Bosch": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JG Bethell": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "E Malinga": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KK Ahmed": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RM Patidar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TL Seifert": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Urvil Patel": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Sediqullah Atal": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "DAJ Bracewell": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AD Hales": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "DT Christian": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "YV Takawale": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "CR Woakes": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KP Pietersen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Joginder Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "T Henderson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "UBT Chand": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Y Venugopal Rao": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NM Coulter-Nile": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "T Mishra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AG Murtaza": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Sandeep Warrier": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "WD Parnell": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Gurkeerat Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KB Arun Karthik": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "Pankaj Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AB de Villiers": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "CJ Green": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AJ Finch": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Wiese": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JL Pattinson": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MV Boucher": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "RW Price": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Mukund": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "OF Smith": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Anureet Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BB Samantray": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GS Sandhu": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "B Laughlin": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RS Gavaskar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Azmatullah Omarzai": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Shivam Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BR Sharath": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "T Kohler-Cadmore": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "PVSN Raju": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MS Bhandage": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MS Dhoni": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "K Santokie": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "C Ganapathy": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RA Bawa": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "UT Yadav": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KMDN Kulasekara": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BA Stokes": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MK Lomror": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "T Shamsi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Azhar Mahmood": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Thornely": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium, Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Kartik": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mustafizur Rahman": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RJW Topley": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KP Appanna": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NT Ellis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Ashwin": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJM Short": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "IK Pathan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AD Nath": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AA Jhunjhunwala": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TM Srivastava": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "T Natarajan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KA Jamieson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MP Yadav": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Mhatre": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Ashutosh Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "T Stubbs": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Kumar Kushagra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "SV Samson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "M Siddharth": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Navdeep Saini": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TU Deshpande": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DS Rathi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Arshdeep Singh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Akash Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Shukla": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Kumble": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Sohal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JJ van der Wath": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GJ Bailey": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JM Bairstow": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "CJ Anderson": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BW Hilfenhaus": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DJ Malan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GC Smith": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Klinger": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "DNT Zoysa": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PA Reddy": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "FH Edwards": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mohammad Ashraful": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak, Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Salman Butt": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Abdul Basith": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JDS Neesham": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "ML Hayden": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SS Agarwal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Chandila": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DM Bravo": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "HE van der Dussen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Ray Barman": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AC Voges": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "L Balaji": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PWH de Silva": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AM Nayar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MS Bisla": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "VVS Laxman": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Pretorius": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "VH Zol": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "VS Yeligati": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JA Richardson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AG Paunikar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "L Ronchi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "RR Bose": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Rampaul": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Chopra": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium, Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Dravid": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "C Nanda": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "HR Shokeen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Yash Dayal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Karanveer Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "C Madan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "JE Taylor": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "W Jaffer": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MC Henriques": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "B Akhil": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "V Sehwag": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PP Ojha": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NA Saini": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Ntini": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NV Ojha": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "RE Levi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R McLaren": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "ND Doshi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RV Pawar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Yash Thakur": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JC Buttler": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "RK Singh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Abdul Samad": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RA Jadeja": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Ramandeep Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Kuldeep Yadav": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LS Livingstone": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak, Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JJ Bumrah": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Padikkal": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Q de Kock": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "MJ Santner": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Rasikh Salam": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Nissanka": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "B Sai Sudharsan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AM Rahane": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MJ Henry": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TA Boult": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "YS Chahal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SM Harwood": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CH Gayle": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Sreesanth": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AL Menaria": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KM Asif": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mayank Dagar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "F du Plessis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Yashpal Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JD Ryder": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SM Curran": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Vijay": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SMSM Senanayake": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "C Munro": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Gagandeep Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Rana": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Aravind": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Badree": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AB McDonald": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "I Udana": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Ashwin": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "T Thushara": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DR Martyn": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LRPL Taylor": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PM Sarvesh Kumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sikandar Raza": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Abdur Razzak": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DG Nalkande": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "J Syed Mohammad": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KMA Paul": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "NLTC Perera": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TK Curran": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Anirudh Singh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "J Suchith": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Shivam Mavi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CA Lynn": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DP Vijaykumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SW Billings": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Y Gnaneswara Rao": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "O Thomas": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Dhawan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BA Bhatt": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CRD Fernando": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Ninan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Choudhary": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AS Joseph": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CK Langeveldt": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AB Barath": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DR Shorey": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SP Jackson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Mandeep Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SM Katich": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JA Morkel": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DR Smith": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Dhawan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GJ Maxwell": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "UA Birla": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "C de Grandhomme": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "YV Dhull": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GB Hogg": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Harpreet Singh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "J Arunkumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SJ Srivastava": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "R Sanjay Yadav": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SB Wagh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Harbhajan Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LMP Simmons": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "Shoaib Ahmed": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D du Preez": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AJ Turner": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KK Nair": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PJ Cummins": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "VR Iyer": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mohammed Siraj": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Badoni": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "N Pooran": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "MD Shanaka": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Brevis": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RV Gomez": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AC Gilchrist": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "E Lewis": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "SS Cottrell": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Parvez Rasool": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mujeeb Ur Rahman": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Symonds": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium, Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Harmeet Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JL Denly": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RS Bopara": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Dananjaya": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak, Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Kaul": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KH Devdhar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "M de Lange": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "WA Mota": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MS Gony": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "X Thalaivan Sargunam": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Flintoff": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SC Kuggeleijn": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AS Rajpoot": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SL Malinga": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MM Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SB Bangar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sohail Tanvir": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "BR Dunk": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "I Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Akash Madhwal": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SM Boland": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "H Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AA Bilakhia": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MJ Clarke": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "HC Brook": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SC Ganguly": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KM Jadhav": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KA Pollard": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PBB Rajapaksa": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SE Bond": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JPR Scantlebury-Searles": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "P Negi": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DPMD Jayawardene": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "MG Johnson": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Left arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RR Powar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "FY Fazal": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Muralitharan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DT Patil": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "JR Hopes": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "CJ Ferguson": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KAJ Roach": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "EJG Morgan": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "Occasional Wicketkeeper",
+      "role": "WK"
+    },
+    "AJ Hosein": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TM Head": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Brijesh Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SS Iyer": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak, Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "TH David": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "RD Gaikwad": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Abhinandan Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PD Salt": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "SE Rutherford": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Shashank Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium, Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JM Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "M Shahrukh Khan": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Abhishek Sharma": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Aniket Verma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Washington Sundar": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "VG Arora": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "KL Rahul": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "GD Phillips": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "M Markande": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Shubman Gill": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JD Unadkat": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "A Nortje": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "C Green": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "JA Duffy": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "DV Malewar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Krish Bhagat": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "M Prasidh Krishna": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Auqib Nabi": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "LG Pretorius": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "DA Payne": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "B Muzarabani": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "FH Allen": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "",
+      "role": "BAT"
+    },
+    "Shivang Kumar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Wrist spin",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Mayank Rawat": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Kartik Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper Batter",
+      "role": "WK"
+    },
+    "Gurjapneet Singh": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Left arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "GF Linde": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "C Connolly": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Yash Raj Punja": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PR Veer": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "AM Ghazanfar": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Offbreak, Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Sakib Hussain": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Nithish Kumar Reddy": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "S Arora": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "",
+      "fieldPos": "Wicketkeeper",
+      "role": "WK"
+    },
+    "Harsh Dubey": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Ashok Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "PP Hinge": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "Suyash Sharma": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Legbreak Googly",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "D Madushanka": {
+      "batStyle": "Right hand Bat",
+      "bowlStyle": "Right arm Medium fast",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "V Suryavanshi": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Slow Left arm Orthodox",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "N Rana": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Right arm Medium, Right arm Offbreak, Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    },
+    "SU Parakh": {
+      "batStyle": "Left hand Bat",
+      "bowlStyle": "Legbreak",
+      "fieldPos": "",
+      "role": "BOWL"
+    }
+  },
+  "roles": {
+    "MN Samuels": "BOWL",
+    "SB Jakati": "BOWL",
+    "DA Warner": "BOWL",
+    "RA Tripathi": "BOWL",
+    "S Nadeem": "BOWL",
+    "MK Pandey": "BOWL",
+    "KS Williamson": "BOWL",
+    "G Gambhir": "BOWL",
+    "MK Tiwary": "BOWL",
+    "M Vohra": "BOWL",
+    "NB Singh": "BOWL",
+    "R Bhatia": "BOWL",
+    "SS Tiwary": "BAT",
+    "MA Wood": "BOWL",
+    "SK Raina": "BOWL",
+    "R Vinay Kumar": "BOWL",
+    "SE Marsh": "BOWL",
+    "Sachin Baby": "BOWL",
+    "J Yadav": "BOWL",
+    "PP Chawla": "BOWL",
+    "SPD Smith": "BOWL",
+    "S Kaushik": "BOWL",
+    "P Kumar": "BOWL",
+    "K Khejroliya": "BOWL",
+    "MJ McClenaghan": "BOWL",
+    "AD Mathews": "BOWL",
+    "JJ Roy": "BAT",
+    "AB Dinda": "BOWL",
+    "Shakib Al Hasan": "BOWL",
+    "K Gowtham": "BOWL",
+    "YK Pathan": "BOWL",
+    "STR Binny": "BOWL",
+    "Iqbal Abdulla": "BOWL",
+    "Yuvraj Singh": "BOWL",
+    "Swapnil Singh": "BOWL",
+    "MJ Guptill": "BOWL",
+    "CH Morris": "BOWL",
+    "S Gopal": "BOWL",
+    "KC Cariappa": "BOWL",
+    "Basil Thampi": "BOWL",
+    "AR Bawne": "BOWL",
+    "KV Sharma": "BOWL",
+    "Vishnu Vinod": "WK",
+    "AF Milne": "BOWL",
+    "Ankit Sharma": "BOWL",
+    "Z Khan": "BOWL",
+    "A Mishra": "BOWL",
+    "Ankit Soni": "BOWL",
+    "Tejas Baroka": "BOWL",
+    "SR Watson": "BOWL",
+    "AJ Tye": "BOWL",
+    "DJ Bravo": "BOWL",
+    "AP Tare": "WK",
+    "B Indrajith": "BOWL",
+    "T Banton": "WK",
+    "K Yadav": "BOWL",
+    "Rahmaah Gurbaz": "WK",
+    "HV Patel": "BOWL",
+    "AS Roy": "BOWL",
+    "V Kohli": "BOWL",
+    "MP Stoinis": "BOWL",
+    "RD Chahar": "BOWL",
+    "HH Pandya": "BOWL",
+    "SP Narine": "BOWL",
+    "LH Ferguson": "BOWL",
+    "R Tewatia": "BOWL",
+    "B Kumar": "BOWL",
+    "Rashid Khan": "BOWL",
+    "SN Khan": "BOWL",
+    "R Shepherd": "BOWL",
+    "MR Marsh": "BOWL",
+    "AR Patel": "BOWL",
+    "K Rabada": "BOWL",
+    "DA Miller": "BOWL",
+    "DL Chahar": "BOWL",
+    "Mohsin Khan": "BOWL",
+    "Mohammed Shami": "BOWL",
+    "Avesh Khan": "BOWL",
+    "KH Pandya": "BOWL",
+    "Ishan Kishan": "WK",
+    "SA Abbott": "BOWL",
+    "OC McCoy": "BOWL",
+    "P Dubey": "BOWL",
+    "DW Steyn": "BOWL",
+    "RP Meredith": "BOWL",
+    "R Sai Kishore": "BOWL",
+    "RK Bhui": "BOWL",
+    "Akash Deep": "BOWL",
+    "KS Bharat": "WK",
+    "A Manohar": "BOWL",
+    "Fazalhaq Farooqi": "BOWL",
+    "KR Sen": "BOWL",
+    "FA Allen": "BOWL",
+    "Anuj Rawat": "BAT",
+    "M Theekshana": "BOWL",
+    "DJ Willey": "BOWL",
+    "PP Shaw": "BOWL",
+    "Umran Malik": "BOWL",
+    "SP Goswami": "WK",
+    "HF Gurney": "BOWL",
+    "CA Ingram": "WK",
+    "SD Lad": "BOWL",
+    "J Little": "BOWL",
+    "M Pathirana": "BOWL",
+    "S Midhun": "BOWL",
+    "CJ Dala": "BOWL",
+    "PK Garg": "BOWL",
+    "Aman Hakim Khan": "BOWL",
+    "MS Wade": "WK",
+    "KL Nagarkoti": "BOWL",
+    "DR Sams": "BOWL",
+    "DJ Mitchell": "BOWL",
+    "C Sakariya": "BOWL",
+    "S Lamichhane": "BOWL",
+    "GH Vihari": "BOWL",
+    "RR Rossouw": "BOWL",
+    "KR Mayers": "BOWL",
+    "LI Meriwala": "BOWL",
+    "NS Naik": "WK",
+    "PN Mankad": "BOWL",
+    "K Kartikeya": "BOWL",
+    "AU Rashid": "BOWL",
+    "IC Porel": "BOWL",
+    "Virat Singh": "BOWL",
+    "Monu Kumar": "BOWL",
+    "SH Johnson": "BOWL",
+    "AA Kulkarni": "BOWL",
+    "SZ Mulani": "BOWL",
+    "RJ Gleeson": "BOWL",
+    "V Kaverappa": "BOWL",
+    "KT Maphaka": "BOWL",
+    "D Jansen": "BOWL",
+    "R Ravindra": "BOWL",
+    "Sumit Kumar": "BOWL",
+    "Saurav Chauhan": "BOWL",
+    "PVD Chameera": "BOWL",
+    "N Burger": "BOWL",
+    "Mukesh Choudhary": "BOWL",
+    "Tilak Varma": "BOWL",
+    "Mukesh Kumar": "BOWL",
+    "YBK Jaiswal": "BOWL",
+    "A Kamboj": "BOWL",
+    "Prince Yadav": "BOWL",
+    "AK Markram": "BOWL",
+    "S Dube": "BOWL",
+    "JC Archer": "BOWL",
+    "Ravi Bishnoi": "BOWL",
+    "H Klaasen": "WK",
+    "P Simran Singh": "WK",
+    "Kartik Tyagi": "BOWL",
+    "A Raghuvanshi": "BOWL",
+    "JO Holder": "BOWL",
+    "Shahbaz Ahmed": "BOWL",
+    "Sameer Rizvi": "BOWL",
+    "JR Hazlewood": "BOWL",
+    "MJ Suthar": "BOWL",
+    "M Jansen": "BOWL",
+    "Arshad Khan": "BOWL",
+    "CV Varun": "BOWL",
+    "DL Vettori": "BOWL",
+    "Sanvir Singh": "BOWL",
+    "Yudhvir Singh": "BOWL",
+    "Liton Das": "WK",
+    "WPUJC Vaas": "BOWL",
+    "AS Yadav": "BOWL",
+    "VRV Singh": "BOWL",
+    "RP Singh": "BOWL",
+    "GD McGrath": "BOWL",
+    "MF Maharoof": "BOWL",
+    "HH Gibbs": "BOWL",
+    "LR Shukla": "BOWL",
+    "Vivrant Sharma": "BOWL",
+    "MG Bracewell": "WK",
+    "AB Agarkar": "BOWL",
+    "SB Styris": "BOWL",
+    "Naveen-ul-Haq": "BOWL",
+    "BJ Hodge": "BOWL",
+    "S Chanderpaul": "BOWL",
+    "T Kohli": "BOWL",
+    "KC Sangakkara": "WK",
+    "Shahid Afridi": "BOWL",
+    "Umar Gul": "BOWL",
+    "P Amarnath": "BOWL",
+    "RR Sarwan": "BOWL",
+    "MA Khote": "BOWL",
+    "JH Kallis": "BOWL",
+    "B Geeves": "BOWL",
+    "Mohit Rathee": "BOWL",
+    "R Goyal": "BOWL",
+    "Arshad Khan (2)": "BOWL",
+    "K Goel": "BOWL",
+    "SSB Magala": "BOWL",
+    "S Badrinath": "BOWL",
+    "VY Mahesh": "BOWL",
+    "P Dharmani": "WK",
+    "Mohammad Hafeez": "BOWL",
+    "JDP Oram": "BOWL",
+    "D Kalyankrishna": "BOWL",
+    "ST Jayasuriya": "BOWL",
+    "PR Shah": "WK",
+    "M Manhas": "WK",
+    "B Lee": "BOWL",
+    "RT Ponting": "BOWL",
+    "DJ Hussey": "BOWL",
+    "NK Patel": "BAT",
+    "SP Fleming": "BAT",
+    "TR Birt": "WK",
+    "AA Kazi": "BOWL",
+    "J Theron": "BOWL",
+    "SS Mundhe": "BOWL",
+    "Sunny Singh": "BOWL",
+    "R Bishnoi": "BOWL",
+    "AS Raut": "BOWL",
+    "R Sharma": "BOWL",
+    "RS Sodhi": "BOWL",
+    "MJ Lumb": "BOWL",
+    "LJ Wright": "BOWL",
+    "R Sathish": "BOWL",
+    "Misbah-ul-Haq": "BOWL",
+    "OA Shah": "BOWL",
+    "AM Salvi": "BOWL",
+    "A Nel": "BOWL",
+    "NL McCullum": "BOWL",
+    "N Saini": "WK",
+    "AN Ahmed": "BOWL",
+    "I Malhotra": "BOWL",
+    "MD Mishra": "BOWL",
+    "RJ Peterson": "BOWL",
+    "CA Pujara": "BOWL",
+    "A Uniyal": "BOWL",
+    "GR Napier": "BOWL",
+    "J Botha": "BOWL",
+    "Kamran Khan": "BOWL",
+    "U Kaul": "WK",
+    "Dhruv Jurel": "BAT",
+    "N Wadhera": "BOWL",
+    "MW Short": "BOWL",
+    "Abishek Porel": "WK",
+    "S Tyagi": "BOWL",
+    "BJ Haddin": "WK",
+    "CK Kapugedera": "WK",
+    "S Anirudha": "BAT",
+    "RJ Quiney": "BOWL",
+    "YA Abdulla": "BOWL",
+    "TM Dilshan": "WK",
+    "MN van Wyk": "WK",
+    "SS Shaikh": "BOWL",
+    "AC Thomas": "BOWL",
+    "PD Collingwood": "BOWL",
+    "AP Dole": "BOWL",
+    "Jaskaran Singh": "BOWL",
+    "H Das": "WK",
+    "AA Chavan": "BOWL",
+    "A Mithun": "BOWL",
+    "S Vidyut": "BOWL",
+    "JEC Franklin": "BOWL",
+    "AN Ghosh": "BOWL",
+    "RR Raje": "BOWL",
+    "SS Sarkar": "BOWL",
+    "RN ten Doeschate": "BOWL",
+    "DE Bollinger": "BOWL",
+    "S Ladda": "BOWL",
+    "DH Yagnik": "BAT",
+    "DP Nannes": "BOWL",
+    "A Singh": "BOWL",
+    "TP Sudhindra": "BOWL",
+    "S Randiv": "BOWL",
+    "PC Valthaty": "BOWL",
+    "P Awana": "BOWL",
+    "Shoaib Akhtar": "BOWL",
+    "RR Bhatkal": "BOWL",
+    "KK Cooper": "BOWL",
+    "AD Mascarenhas": "BOWL",
+    "JM Kemp": "BOWL",
+    "LPC Silva": "BOWL",
+    "SR Tendulkar": "BOWL",
+    "RJ Harris": "BOWL",
+    "L Ablish": "BOWL",
+    "S Sriram": "BOWL",
+    "Mashrafe Mortaza": "BOWL",
+    "SW Tait": "BOWL",
+    "DP Conway": "WK",
+    "VS Malik": "BOWL",
+    "N Jagadeesan": "WK",
+    "Y Nagar": "BOWL",
+    "IR Jaggi": "BOWL",
+    "Imran Tahir": "BOWL",
+    "PJ Sangwan": "BOWL",
+    "MEK Hussey": "BOWL",
+    "SM Pollock": "BOWL",
+    "MDKJ Perera": "WK",
+    "JW Hastings": "BOWL",
+    "Harshit Rana": "BOWL",
+    "A Tomar": "BOWL",
+    "CJ Jordan": "BOWL",
+    "P Chopra": "WK",
+    "SK Warne": "BOWL",
+    "AC Blizzard": "BOWL",
+    "DJG Sammy": "BOWL",
+    "KD Karthik": "WK",
+    "B Stanlake": "BOWL",
+    "SB Joshi": "BOWL",
+    "Younis Khan": "BOWL",
+    "P Sahu": "BOWL",
+    "MM Patel": "BOWL",
+    "DB Das": "BOWL",
+    "RV Patel": "BOWL",
+    "T Taibu": "WK",
+    "CJ McKay": "BOWL",
+    "RA Shaikh": "BOWL",
+    "MD Choudhary": "WK",
+    "L Ngidi": "BOWL",
+    "MA Starc": "BOWL",
+    "Sandeep Sharma": "BOWL",
+    "Vijaykumar Vyshak": "BOWL",
+    "GHS Garton": "BOWL",
+    "DS Kulkarni": "BOWL",
+    "WP Saha": "WK",
+    "A Zampa": "BOWL",
+    "PSP Handscomb": "WK",
+    "RS Hangargekar": "BOWL",
+    "HM Amla": "BOWL",
+    "SK Trivedi": "BOWL",
+    "TL Suman": "BOWL",
+    "A Ashish Reddy": "BOWL",
+    "B Chipli": "BOWL",
+    "S Narwal": "BOWL",
+    "SD Chitnis": "BOWL",
+    "Sunny Gupta": "BOWL",
+    "TG Southee": "BOWL",
+    "BCJ Cutting": "BOWL",
+    "BE Hendricks": "BOWL",
+    "BAW Mendis": "BOWL",
+    "SA Asnodkar": "BOWL",
+    "D Salunkhe": "BOWL",
+    "M Kaif": "BOWL",
+    "IC Pandey": "BOWL",
+    "P Dogra": "BOWL",
+    "LA Carseldine": "BOWL",
+    "Bipul Sharma": "BOWL",
+    "JR Philippe": "WK",
+    "TD Paine": "WK",
+    "AA Noffke": "BOWL",
+    "Kamran Akmal": "WK",
+    "BJ Rohrer": "WK",
+    "CM Gautam": "WK",
+    "F Behardien": "BOWL",
+    "PV Tambe": "BOWL",
+    "MC Juneja": "BOWL",
+    "ER Dwivedi": "WK",
+    "K Upadhyay": "BOWL",
+    "MG Neser": "BOWL",
+    "UT Khawaja": "BOWL",
+    "KJ Abbott": "BOWL",
+    "DJ Muthuswami": "BOWL",
+    "Anmolpreet Singh": "BOWL",
+    "JP Behrendorff": "BOWL",
+    "AT Rayudu": "WK",
+    "AD Russell": "BOWL",
+    "V Pratap Singh": "BOWL",
+    "LE Plunkett": "BOWL",
+    "RE van der Merwe": "BOWL",
+    "RV Uthappa": "WK",
+    "V Shankar": "BOWL",
+    "NJ Maddinson": "BOWL",
+    "CL White": "BOWL",
+    "M Rawat": "WK",
+    "Gurnoor Brar": "BOWL",
+    "BB McCullum": "WK",
+    "M Morkel": "BOWL",
+    "KS Sharma": "BOWL",
+    "P Parameswaran": "BOWL",
+    "P Prasanth": "BOWL",
+    "Lalit Yadav": "BOWL",
+    "DJ Hooda": "BOWL",
+    "IS Sodhi": "BOWL",
+    "BB Sran": "BOWL",
+    "DJ Harris": "BOWL",
+    "Y Prithvi Raj": "BOWL",
+    "JP Duminy": "BOWL",
+    "NJ Rimmington": "BOWL",
+    "A Nehra": "BOWL",
+    "AUK Pathan": "BOWL",
+    "Jalaj S Saxena": "BOWL",
+    "CR Brathwaite": "BOWL",
+    "AT Carey": "WK",
+    "DS Lehmann": "BOWL",
+    "SS Prabhudessai": "BOWL",
+    "RG Sharma": "BOWL",
+    "RR Pant": "WK",
+    "Harpreet Brar": "BOWL",
+    "R Parag": "BOWL",
+    "N Thushara": "BOWL",
+    "LB Williams": "BOWL",
+    "Gulbadin Naib": "BOWL",
+    "Tanush Kotian": "BOWL",
+    "SD Hope": "WK",
+    "L Wood": "BOWL",
+    "G Coetzee": "BOWL",
+    "KA Maharaj": "BOWL",
+    "J Fraser-McGurk": "BOWL",
+    "S Joseph": "BOWL",
+    "V Viyaskanth": "BOWL",
+    "V Puthur": "BOWL",
+    "Arjun Tendulkar": "BOWL",
+    "P Suyal": "BOWL",
+    "MB Parmar": "BOWL",
+    "AP Majumdar": "BOWL",
+    "Anand Rajan": "BOWL",
+    "GC Viljoen": "BOWL",
+    "Atharva Taide": "BOWL",
+    "Shoaib Malik": "BOWL",
+    "Mohammad Asif": "BOWL",
+    "PA Patel": "WK",
+    "Shivam Sharma": "BOWL",
+    "LA Pomersbach": "BOWL",
+    "RG More": "BOWL",
+    "Simarjeet Singh": "BOWL",
+    "MM Ali": "BOWL",
+    "DB Ravi Teja": "BOWL",
+    "Mohammad Nabi": "BOWL",
+    "JP Faulkner": "BOWL",
+    "VR Aaron": "BOWL",
+    "B Sumanth": "BOWL",
+    "PH Solanki": "BOWL",
+    "KW Richardson": "BOWL",
+    "MA Agarwal": "BOWL",
+    "TS Mills": "BOWL",
+    "JE Root": "BOWL",
+    "DJ Jacobs": "WK",
+    "BMAJ Mendis": "BOWL",
+    "PWA Mulder": "BOWL",
+    "Zeeshan Ansari": "BOWL",
+    "PHKD Mendis": "BOWL",
+    "SK Rasheed": "BOWL",
+    "JP Inglis": "WK",
+    "Karim Janat": "BOWL",
+    "KS Rathore": "WK",
+    "M Tiwari": "BOWL",
+    "MJ Owen": "BAT",
+    "W O'Rourke": "BOWL",
+    "MP Breetzke": "WK",
+    "Musheer Khan": "BOWL",
+    "BKG Mendis": "BOWL",
+    "SO Hetmyer": "BAT",
+    "Himmat Singh": "BOWL",
+    "SN Thakur": "BOWL",
+    "Ashwani Kumar": "BOWL",
+    "D Ferreira": "WK",
+    "V Nigam": "BOWL",
+    "Noor Ahmad": "BOWL",
+    "R Minz": "BAT",
+    "RD Rickelton": "WK",
+    "J Overton": "BOWL",
+    "Naman Dhir": "BOWL",
+    "Priyansh Arya": "BOWL",
+    "SB Dubey": "BOWL",
+    "WG Jacks": "BOWL",
+    "XC Bartlett": "BOWL",
+    "R Powell": "BOWL",
+    "SA Yadav": "BOWL",
+    "Suryansh Shedge": "BOWL",
+    "C Bosch": "BOWL",
+    "JG Bethell": "BOWL",
+    "E Malinga": "BOWL",
+    "KK Ahmed": "BOWL",
+    "RM Patidar": "BOWL",
+    "TL Seifert": "WK",
+    "Urvil Patel": "WK",
+    "Sediqullah Atal": "BAT",
+    "DAJ Bracewell": "BOWL",
+    "AD Hales": "WK",
+    "DT Christian": "BOWL",
+    "YV Takawale": "WK",
+    "CR Woakes": "BOWL",
+    "KP Pietersen": "BOWL",
+    "Joginder Sharma": "BOWL",
+    "T Henderson": "BOWL",
+    "UBT Chand": "BOWL",
+    "Y Venugopal Rao": "BOWL",
+    "NM Coulter-Nile": "BOWL",
+    "T Mishra": "BOWL",
+    "AG Murtaza": "BOWL",
+    "S Sandeep Warrier": "BOWL",
+    "WD Parnell": "BOWL",
+    "Gurkeerat Singh": "BOWL",
+    "KB Arun Karthik": "WK",
+    "Pankaj Singh": "BOWL",
+    "AB de Villiers": "WK",
+    "CJ Green": "BOWL",
+    "AJ Finch": "BOWL",
+    "D Wiese": "BOWL",
+    "JL Pattinson": "BOWL",
+    "MV Boucher": "WK",
+    "RW Price": "BOWL",
+    "A Mukund": "BOWL",
+    "OF Smith": "BOWL",
+    "Anureet Singh": "BOWL",
+    "BB Samantray": "BOWL",
+    "GS Sandhu": "BOWL",
+    "B Laughlin": "BOWL",
+    "RS Gavaskar": "BOWL",
+    "Azmatullah Omarzai": "BOWL",
+    "Shivam Singh": "BOWL",
+    "BR Sharath": "WK",
+    "T Kohler-Cadmore": "WK",
+    "PVSN Raju": "BOWL",
+    "MS Bhandage": "BOWL",
+    "MS Dhoni": "WK",
+    "K Santokie": "BOWL",
+    "C Ganapathy": "BOWL",
+    "RA Bawa": "BOWL",
+    "UT Yadav": "BOWL",
+    "KMDN Kulasekara": "BOWL",
+    "BA Stokes": "BOWL",
+    "MK Lomror": "BOWL",
+    "T Shamsi": "BOWL",
+    "Azhar Mahmood": "BOWL",
+    "DJ Thornely": "BOWL",
+    "M Kartik": "BOWL",
+    "Mustafizur Rahman": "BOWL",
+    "RJW Topley": "BOWL",
+    "KP Appanna": "BOWL",
+    "NT Ellis": "BOWL",
+    "R Ashwin": "BOWL",
+    "DJM Short": "BOWL",
+    "IK Pathan": "BOWL",
+    "AD Nath": "BOWL",
+    "AA Jhunjhunwala": "BOWL",
+    "TM Srivastava": "BOWL",
+    "T Natarajan": "BOWL",
+    "KA Jamieson": "BOWL",
+    "MP Yadav": "BOWL",
+    "A Mhatre": "BOWL",
+    "Ashutosh Sharma": "BAT",
+    "T Stubbs": "WK",
+    "Kumar Kushagra": "WK",
+    "SV Samson": "WK",
+    "M Siddharth": "BOWL",
+    "Navdeep Saini": "BOWL",
+    "TU Deshpande": "BOWL",
+    "DS Rathi": "BOWL",
+    "Arshdeep Singh": "BOWL",
+    "Akash Singh": "BOWL",
+    "R Shukla": "BOWL",
+    "A Kumble": "BOWL",
+    "S Sohal": "BOWL",
+    "JJ van der Wath": "BOWL",
+    "GJ Bailey": "BOWL",
+    "JM Bairstow": "WK",
+    "CJ Anderson": "BOWL",
+    "BW Hilfenhaus": "BOWL",
+    "DJ Malan": "BOWL",
+    "GC Smith": "BOWL",
+    "M Klinger": "BAT",
+    "DNT Zoysa": "BOWL",
+    "PA Reddy": "BOWL",
+    "FH Edwards": "BOWL",
+    "Mohammad Ashraful": "BOWL",
+    "Salman Butt": "BOWL",
+    "Abdul Basith": "BOWL",
+    "JDS Neesham": "BOWL",
+    "ML Hayden": "BOWL",
+    "SS Agarwal": "BOWL",
+    "A Chandila": "BOWL",
+    "DM Bravo": "WK",
+    "HE van der Dussen": "BOWL",
+    "P Ray Barman": "BOWL",
+    "AC Voges": "BOWL",
+    "L Balaji": "BOWL",
+    "PWH de Silva": "BOWL",
+    "AM Nayar": "BOWL",
+    "MS Bisla": "WK",
+    "VVS Laxman": "BOWL",
+    "D Pretorius": "BOWL",
+    "VH Zol": "BOWL",
+    "VS Yeligati": "BOWL",
+    "JA Richardson": "BOWL",
+    "AG Paunikar": "WK",
+    "L Ronchi": "WK",
+    "RR Bose": "BOWL",
+    "R Rampaul": "BOWL",
+    "A Chopra": "BOWL",
+    "R Dravid": "WK",
+    "C Nanda": "BOWL",
+    "HR Shokeen": "BOWL",
+    "Yash Dayal": "BOWL",
+    "Karanveer Singh": "BOWL",
+    "C Madan": "WK",
+    "JE Taylor": "BOWL",
+    "W Jaffer": "BOWL",
+    "MC Henriques": "BOWL",
+    "B Akhil": "BOWL",
+    "V Sehwag": "BOWL",
+    "PP Ojha": "BOWL",
+    "NA Saini": "BOWL",
+    "M Ntini": "BOWL",
+    "NV Ojha": "WK",
+    "RE Levi": "BOWL",
+    "R McLaren": "BOWL",
+    "ND Doshi": "BOWL",
+    "RV Pawar": "BOWL",
+    "Yash Thakur": "BOWL",
+    "JC Buttler": "WK",
+    "RK Singh": "BOWL",
+    "Abdul Samad": "BOWL",
+    "RA Jadeja": "BOWL",
+    "Ramandeep Singh": "BOWL",
+    "Kuldeep Yadav": "BOWL",
+    "LS Livingstone": "BOWL",
+    "JJ Bumrah": "BOWL",
+    "D Padikkal": "BOWL",
+    "Q de Kock": "WK",
+    "MJ Santner": "BOWL",
+    "Rasikh Salam": "BOWL",
+    "P Nissanka": "BAT",
+    "B Sai Sudharsan": "BOWL",
+    "AM Rahane": "BOWL",
+    "MJ Henry": "BOWL",
+    "TA Boult": "BOWL",
+    "YS Chahal": "BOWL",
+    "SM Harwood": "BOWL",
+    "CH Gayle": "BOWL",
+    "S Sreesanth": "BOWL",
+    "AL Menaria": "BOWL",
+    "KM Asif": "BOWL",
+    "Mayank Dagar": "BOWL",
+    "F du Plessis": "BOWL",
+    "Yashpal Singh": "BOWL",
+    "JD Ryder": "BOWL",
+    "SM Curran": "BOWL",
+    "M Vijay": "BOWL",
+    "SMSM Senanayake": "BOWL",
+    "C Munro": "BOWL",
+    "Gagandeep Singh": "BOWL",
+    "S Rana": "BOWL",
+    "S Aravind": "BOWL",
+    "S Badree": "BOWL",
+    "AB McDonald": "BOWL",
+    "I Udana": "BOWL",
+    "M Ashwin": "BOWL",
+    "T Thushara": "BOWL",
+    "DR Martyn": "BOWL",
+    "LRPL Taylor": "BOWL",
+    "PM Sarvesh Kumar": "BOWL",
+    "Sikandar Raza": "BOWL",
+    "Abdur Razzak": "BOWL",
+    "DG Nalkande": "BOWL",
+    "J Syed Mohammad": "BOWL",
+    "KMA Paul": "BOWL",
+    "NLTC Perera": "BOWL",
+    "TK Curran": "BOWL",
+    "Anirudh Singh": "BOWL",
+    "J Suchith": "BOWL",
+    "Shivam Mavi": "BOWL",
+    "CA Lynn": "BOWL",
+    "DP Vijaykumar": "BOWL",
+    "SW Billings": "WK",
+    "Y Gnaneswara Rao": "BOWL",
+    "O Thomas": "BOWL",
+    "R Dhawan": "BOWL",
+    "BA Bhatt": "BOWL",
+    "CRD Fernando": "BOWL",
+    "R Ninan": "BOWL",
+    "A Choudhary": "BOWL",
+    "AS Joseph": "BOWL",
+    "CK Langeveldt": "BOWL",
+    "AB Barath": "BOWL",
+    "DR Shorey": "BOWL",
+    "SP Jackson": "WK",
+    "Mandeep Singh": "BOWL",
+    "SM Katich": "BOWL",
+    "JA Morkel": "BOWL",
+    "DR Smith": "BOWL",
+    "S Dhawan": "BOWL",
+    "GJ Maxwell": "BOWL",
+    "UA Birla": "BOWL",
+    "C de Grandhomme": "BOWL",
+    "YV Dhull": "BOWL",
+    "GB Hogg": "BOWL",
+    "Harpreet Singh": "BOWL",
+    "J Arunkumar": "BOWL",
+    "SJ Srivastava": "BOWL",
+    "R Sanjay Yadav": "BOWL",
+    "SB Wagh": "BOWL",
+    "Harbhajan Singh": "BOWL",
+    "LMP Simmons": "WK",
+    "Shoaib Ahmed": "BOWL",
+    "D du Preez": "BOWL",
+    "AJ Turner": "BOWL",
+    "KK Nair": "BOWL",
+    "PJ Cummins": "BOWL",
+    "VR Iyer": "BOWL",
+    "Mohammed Siraj": "BOWL",
+    "A Badoni": "BOWL",
+    "N Pooran": "WK",
+    "MD Shanaka": "BOWL",
+    "D Brevis": "BOWL",
+    "RV Gomez": "BOWL",
+    "AC Gilchrist": "WK",
+    "E Lewis": "BAT",
+    "SS Cottrell": "BOWL",
+    "Parvez Rasool": "BOWL",
+    "Mujeeb Ur Rahman": "BOWL",
+    "A Symonds": "BOWL",
+    "Harmeet Singh": "BOWL",
+    "JL Denly": "BOWL",
+    "RS Bopara": "BOWL",
+    "A Dananjaya": "BOWL",
+    "S Kaul": "BOWL",
+    "KH Devdhar": "WK",
+    "M de Lange": "BOWL",
+    "WA Mota": "BOWL",
+    "MS Gony": "BOWL",
+    "X Thalaivan Sargunam": "BOWL",
+    "A Flintoff": "BOWL",
+    "SC Kuggeleijn": "BOWL",
+    "AS Rajpoot": "BOWL",
+    "SL Malinga": "BOWL",
+    "MM Sharma": "BOWL",
+    "SB Bangar": "BOWL",
+    "Sohail Tanvir": "BOWL",
+    "BR Dunk": "WK",
+    "I Sharma": "BOWL",
+    "Akash Madhwal": "BOWL",
+    "SM Boland": "BOWL",
+    "H Sharma": "BOWL",
+    "AA Bilakhia": "BOWL",
+    "MJ Clarke": "BOWL",
+    "HC Brook": "BOWL",
+    "SC Ganguly": "BOWL",
+    "KM Jadhav": "BOWL",
+    "KA Pollard": "BOWL",
+    "PBB Rajapaksa": "BOWL",
+    "SE Bond": "BOWL",
+    "JPR Scantlebury-Searles": "BOWL",
+    "P Negi": "BOWL",
+    "DPMD Jayawardene": "BOWL",
+    "MG Johnson": "BOWL",
+    "RR Powar": "BOWL",
+    "FY Fazal": "BOWL",
+    "M Muralitharan": "BOWL",
+    "DT Patil": "WK",
+    "JR Hopes": "BOWL",
+    "CJ Ferguson": "BOWL",
+    "KAJ Roach": "BOWL",
+    "EJG Morgan": "WK",
+    "AJ Hosein": "BOWL",
+    "TM Head": "WK",
+    "Brijesh Sharma": "BOWL",
+    "SS Iyer": "BOWL",
+    "TH David": "BOWL",
+    "RD Gaikwad": "BOWL",
+    "Abhinandan Singh": "BOWL",
+    "PD Salt": "WK",
+    "SE Rutherford": "BOWL",
+    "Shashank Singh": "BOWL",
+    "JM Sharma": "WK",
+    "M Shahrukh Khan": "BOWL",
+    "Abhishek Sharma": "BOWL",
+    "Aniket Verma": "BOWL",
+    "Washington Sundar": "BOWL",
+    "VG Arora": "BOWL",
+    "KL Rahul": "WK",
+    "GD Phillips": "WK",
+    "M Markande": "BOWL",
+    "Shubman Gill": "BOWL",
+    "JD Unadkat": "BOWL",
+    "A Nortje": "BOWL",
+    "C Green": "BOWL",
+    "JA Duffy": "BOWL",
+    "DV Malewar": "BOWL",
+    "Krish Bhagat": "BOWL",
+    "M Prasidh Krishna": "BOWL",
+    "Auqib Nabi": "BOWL",
+    "LG Pretorius": "WK",
+    "DA Payne": "BOWL",
+    "B Muzarabani": "BOWL",
+    "FH Allen": "BAT",
+    "Shivang Kumar": "BOWL",
+    "Mayank Rawat": "BOWL",
+    "Kartik Sharma": "WK",
+    "Gurjapneet Singh": "BOWL",
+    "GF Linde": "BOWL",
+    "C Connolly": "BOWL",
+    "Yash Raj Punja": "BOWL",
+    "PR Veer": "BOWL",
+    "AM Ghazanfar": "BOWL",
+    "Sakib Hussain": "BOWL",
+    "Nithish Kumar Reddy": "BOWL",
+    "S Arora": "WK",
+    "Harsh Dubey": "BOWL",
+    "Ashok Sharma": "BOWL",
+    "PP Hinge": "BOWL",
+    "Suyash Sharma": "BOWL",
+    "D Madushanka": "BOWL",
+    "V Suryavanshi": "BOWL",
+    "N Rana": "BOWL",
+    "SU Parakh": "BOWL"
+  }
+}
